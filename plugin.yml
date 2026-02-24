@@ -1,0 +1,8 @@
+name: RTPZone
+version: 1.2
+main: me.yourname.rtpzone.RTPZonePlugin
+api-version: 1.16
+
+commands:
+  rtpzone:
+    description: RTPZone main command
